@@ -1,0 +1,92 @@
+# place images in:
+# img/conf-name/speaker/file.jpg
+# description is actually the company the speaker is working for
+list:
+  -
+    id: alessandro-polidori
+    description: >
+      Expert in Node.js and Linux he is involved in design, implementation of code that powers core services, REST APIs,
+      WebSocket communications and client side Web Applications with real-time WebRTC technologies, applied to VoIP PBX
+    image: alessandro-polidori.jpg
+    first_name: Alessandro
+    last_name: Polidori
+    twitter: ale_polidori
+  -
+    id: beth-griggs
+    description: >
+      Open Source Engineer - IBM. Software Engineer and scrum master working within IBM Runtime Technologies Node.js team. 
+    image: beth-griggs.jpg
+    first_name: Beth
+    last_name: Griggs
+    twitter: BethGriggs_  
+  -
+    id: colin-ihrig   
+    description: >
+      Colin Ihrig is a member of the Node.js Technical Steering Committee, a libuv collaborator, and a hapi.js core team
+      member. Colin is the author of Pro Node.js for Developers, and co-author of Full Stack JavaScript Development with
+      MEAN. Colin is currently an engineer at Joyent.
+    image: colin-ihrig.jpg
+    first_name: Colin
+    last_name: Ihrig 
+    twitter: cjihrig
+  -
+    id: krzysztof-slonka
+    description: >
+      Krzysztof is a software engineer with a diverse background: back-end, front-end, Bluetooth Mesh and now Service
+      Mesh at Allegro. He has the most fun solving problems that require deep understanding of technology. Working on
+      performance improvements is one of the ways to really understand what's going on under the hood.
+    image: krzysztof-slonka.jpg
+    first_name: Krzysztof
+    last_name: Słonka
+    twitter: KrzysztofSlonka
+  -
+    id: olivier-loverde
+    description: >
+      Curious and eager for knowledge, Olivier is fascinated by all subject related to technology since he is 9y.o.
+      Beyond software engineering and designing high availability architecture, he loves micro-electronics (DYI),
+      biohacking and discovering foreign cultures. He is currently the CTO of Innovorder, a French startup providing an
+      omnichannel SaaS platform for restaurant groups (10M€ raised) where he is leading a team of highly talented
+      engineers.
+    image: olivier-loverde.jpg
+    first_name: Olivier
+    last_name: Loverde
+    twitter: loverdeolivier
+  -
+    id: suby-raman
+    description: >
+      Suby Raman is a full-stack software engineer working for Duo Security out of Ann Arbor, Michigan. 
+      He has helped lead development of Duo's implementation of WebAuthn, now being widely used in Duo's two-factor authentication prompt.
+      He is also the author of Webauthn.Guide, a developer guide for understanding and implementing passwordless authentication. Notably, he has contributed over 175 custom emoji to Duo's Slack workspace.
+    image: suby-raman.jpg
+    first_name: Suby
+    last_name: Raman
+    twitter: subyraman    
+  -
+    id: supriya-aggarwal
+    description: >
+      Supriya is a software engineer trying to keep up with the tech space one language at a time. She loves springtime,
+      travelling, pigs, penguins and pineapple on pizza. Also, she can sleep literally anywhere.
+    image: supriya-aggarwal.jpg
+    first_name: Supriya
+    last_name: Aggarwal
+    twitter:
+  -
+    id: tomas-della-vedova
+    description: >
+      Tomas is an enthusiastic software engineer, who spends most of his time programming in JavaScript and Node.js. He
+      works for Elastic as Senior Software Engineer in the clients team, focusing on the JavaScript client. Tomas is also
+      the author of the Fastify web framework and part of its ecosystem.
+    image: tomas-della-vedova.jpg
+    first_name: Tomas
+    last_name: Della Vedova
+    twitter: delvedor
+  -
+    id: yoni-goldberg
+    description: >
+      Yoni Goldberg is an independent consultant who works with 500 fortune corporates and garage startups on polishing
+      their JS & Node.js applications. He's the author of Node's largest best practices collection (link below). More
+      than any other topic he is fascinated by and aims to master the art of testing.
+    image: yoni-goldberg.jpg
+    first_name: Yoni
+    last_name: Goldberg
+    twitter: nodepractices

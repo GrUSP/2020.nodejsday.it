@@ -1,0 +1,25 @@
+name: nodejsday
+og_image: http://2019.nodejsday.it/img/themes/nodejsday/ogimage-new.png
+og_description: nodejsday is about the latest developments and case studies in the Node.js world. It's an international conference organized by GrUSP, the creators of jsday.
+slug: nodejsday
+url: https://2019.nodejsday.it
+where_when: Verona, October 3rd 2019
+year: 2019
+since: 2014
+call_for_paper_url: https://goo.gl/forms/eCVY1dHT7EanPHJV2
+call_for_paper: false
+talks_available: true
+schedule_available: true
+training_available: false
+scholarship_available: true
+
+iubenda:
+  cookiePolicyId: 48494687
+  siteId: 1515952
+  lang: en
+  enableRemoteConsent: true
+  localConsentDomain: nodejsday.it
+  rebuildIframe: true
+
+google:
+  tag_manager_id: GTM-KNTPZDS

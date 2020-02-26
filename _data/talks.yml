@@ -1,0 +1,89 @@
+-
+  speaker_id: alessandro-polidori
+  title: "A world of Rest APIs...from Restify to a faster Fastify"
+  extract: >
+    In this talk I will share my experience migrating completely an entire platform of REST APIs of a phone switchboard
+    system that serve thousands of customers in production.
+    The migration is from using Restify to the adoption of a more efficient and performant Fastify library. We will
+    consider the pros and cons of both solutions and how the performance has been increased with the simplicity of the
+    code. This story is real and is about a Computer Telephony Integration system (100% Node.js) that interacts with an
+    Asterisk VoIP PBX switchboard which serves thousands of customers in daily real-time audio and video communications.
+    We sill se how the micro service architecture allow us to achieve modular and independent components isolated from
+    each other and which can scale horizontally.
+-
+  speaker_id: beth-griggs
+  title: "Node.js: A Decade On"
+  extract: >
+    Node.js has just celebrated its 10th birthday. With Node 12 just about to enter into long-term support, let us look
+    at what is new, the people that have helped us get here, and how you can get involved too.
+-
+  speaker_id: colin-ihrig
+  title: "Getting Started with gRPC and Node.js"
+  extract: >
+    gRPC is a language independent framework for making remote procedure calls used by large companies such as Netflix,
+    Docker, Google, and more. gRPC leverages technologies such as HTTP2 and protocol buffers to create efficient network
+    based applications. This talk provides an introduction to basic gRPC concepts, and shows how the framework can be
+    used in both browser and Node.js applications. This talk will compare and contrast the various modules available to
+    JavaScript developers, including grpc, @grpc/grpc-js, @grpc/proto-loader, grpc-server-js, and grpc-web. Finally,
+    the talk will discuss certain architectural tradeoffs that come with gRPC-based systems.
+-
+  speaker_id: krzysztof-slonka
+  title: "Allegro.pl in flames"
+  extract: >
+    There is a quote by Donald Knuth: "Premature optimization is the root of all evil" - everyone seems to know it, but
+    how do we know it's true? When the time comes when we need to squeeze more juice out of our app, what should be
+    optimized? In this presentation, we will look at ways to analyze and optimize the performance of OpBox - the
+    service responsible for rendering the fifth most-visited online marketplace in Europe. I will mostly focus on flame
+    graph analysis, node.js profilers, worker_threads, v8 optimizations and performance tips.
+-
+  speaker_id: olivier-loverde
+  title: "Designing Node.js applications for scalability, observability, maintainability and K8S deployability"
+  extract: >
+    In this talk, we will dig into:
+    1. Implement Clean Architecture (SOLID principles) for Node.js application using inversion of control and Typescript.
+    2. Implement Observability : K8S endpoints, logging, monitoring and alerting
+    3. Benchmark for scalability and correct bottleneck.
+    4. Best practices for container and K8S deployment.
+-
+  speaker_id: suby-raman
+  title: "Web Authentication - Imagine a World Without Passwords"
+  extract: >
+    Passwords are a problem. We reuse them. We forget them. They’re tricky to implement and secure, as developers.
+    They're easy to steal; 95% of all data breaches are due to weak or stolen credentials.
+    I've been part of a team that drove one of the first commercial implementations of Web Authentication, the Javascript
+    API that is now widely available in browsers. The spec aims to provide a strategy for securing users across the
+    internet using public key cryptography instead of passwords.
+    It integrates with the strong authentication provided by devices, like Windows Hello or Apple’s Touch ID; instead of
+    passwords, a user's fingerprint, retina, or voice can log into your website. In this talk I will dive into what you
+    need to know to build a full-stack application that implements WebAuthn in Node.JS.
+    I'll introduce the cryptographic concepts you will need to understand to implement the protocol in your application.
+    I'll describe the user-experience and engineering challenges faced by my team in integrating the Web Authentication
+    API into our product. I will conclude with thoughts on the prospects of Web Authentication, and why I feel it could
+    have a significant impact on the way we developers think about security.
+-
+  speaker_id: supriya-aggarwal
+  title: "Why GraphQL vs. Why not GraphQL"
+  extract: >
+    In the last few years, GraphQL has been growing in popularity. A lot of companies have started adopting this
+    technology to build their APIs. It has been gaining a lot of traction. In this talk, we’ll first go on to see how
+    GraphQL overcomes some of the major limitations of REST. Post that, we’ll discuss some points on the case against
+    GraphQL so you can have a clearer idea of whether you need GraphQL, before you jump into using it at work.
+
+-
+  speaker_id: tomas-della-vedova
+  title: "I want to publish my first Open Source library"
+  extract: >
+    While working on a project, you wrote a utility to solve a problem. Then you started using it in other projects.
+    It looks like the code you wrote is very useful, and other people might benefit from it, so you decided to publish
+    it on GitHub. What should you do?
+    In this talk, we will discuss the benefits of Open Source, work with the community, choose a license, API design and
+    developer experience, the importance of writing test, and how to write proper documentation. You cannot miss any of
+    those if you want your library to be successful, and if it does, you will be a maintainer. And now?
+-
+  speaker_id: yoni-goldberg
+  title: "What's new in Node.js testing"
+  extract: >
+    As the architecture of applications rapidly changes with dramatic changes (serverless, K8S, etc) so does the TESTING
+    world introduces a new offering to cope with the new challenges. This session aims to keep you up-to-date by packing
+    all those updates and opportunities into colorful demos: we're about to travel across the latest Node.js testing
+    trends, emerging & powerful techniques and neat tools like mutation testing, snapshots, fuzzing and others.
