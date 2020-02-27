@@ -1,15 +1,15 @@
 name: nodejsday
-og_image: http://2019.nodejsday.it/img/themes/nodejsday/ogimage-new.png
+og_image: http://2020.nodejsday.it/img/themes/nodejsday/ogimage-new.png
 og_description: nodejsday is about the latest developments and case studies in the Node.js world. It's an international conference organized by GrUSP, the creators of jsday.
 slug: nodejsday
-url: https://2019.nodejsday.it
-where_when: Verona, October 3rd 2019
-year: 2019
+url: https://2020.nodejsday.it
+where_when: Verona, October 14th 2020
+year: 2020
 since: 2014
-call_for_paper_url: https://goo.gl/forms/eCVY1dHT7EanPHJV2
-call_for_paper: false
-talks_available: true
-schedule_available: true
+call_for_paper_url: https://forms.gle/qMCJKqHMAgqdsqxz6
+call_for_paper: true
+talks_available: false
+schedule_available: false
 training_available: false
 scholarship_available: true
 

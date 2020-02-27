@@ -36,9 +36,6 @@ diamond:
     - 5 tickets with 20% discount
   max: 2
   list:
-    -
-      url: https://www.ibm.com/it-it/cloud/?utm_source=nodejsday
-      image: ibm.svg
 
 platinum:
   price: € 3,000
@@ -53,9 +50,6 @@ platinum:
     - 5 tickets with 15% discount
   max: 4
   list:
-    -
-      url: https://engineering.dazn.com/?utm_source=nodejsday
-      image: dazn.svg
 
 gold:
   price: € 1,500
@@ -72,9 +66,6 @@ gold:
     -
       url: https://www.workwave.com/?utm_source=nodejsday
       image: workwave.svg
-    -
-      url: https://www.linkme.it/?utm_source=nodejsday
-      image: linkme.svg
 
 silver:
   price: € 750
@@ -87,21 +78,7 @@ silver:
     - 3 tickets with 10% discount
   max: 16
   list:
-    -
-      url: http://allegro.tech/?utm_source=nodejsday
-      image: allegro.svg  
-    -
-      url: https://balsamiq.com/?utm_source=nodejsday
-      image: balsamiq.svg      
-    -
-      url: https://www.elastic.co/?utm_source=nodejsday
-      image: elastic.svg         
-    -
-      url: https://flowing.it/?utm_source=nodejsday
-      image: flowing.svg
-    -
-      url: https://www.voxnest.com/?utm_source=nodejsday
-      image: voxnest.svg
+  
 
 bronze:
   price: € 500
