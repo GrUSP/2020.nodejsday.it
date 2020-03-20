@@ -78,6 +78,9 @@ silver:
     - 3 tickets with 10% discount
   max: 16
   list:
+    -
+      url: https://www.voxnest.com/?utm_source=nodejsday
+      image: voxnest.svg  
   
 
 bronze:
@@ -88,4 +91,7 @@ bronze:
     - 2 tickets with 10% discount
   max: 32
   list:
+    -
+      url: http://stickermule.com/supports/grusp20-sponsorship
+      image: stickermule.svg      
 
