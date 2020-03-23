@@ -54,6 +54,8 @@
           <a href="{{ site.baseurl }}/coc.html" class="button button--no-tablet-small">
             Coc
           </a>
+          {% endunless %}
+          {% unless site.data.conference.call_for_paper %}
           <a href="{{ site.baseurl }}/venue.html" class="button button--no-tablet-small">
             Venue
           </a>
