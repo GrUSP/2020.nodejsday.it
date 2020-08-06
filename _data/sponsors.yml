@@ -81,6 +81,9 @@ silver:
     -
       url: https://www.voxnest.com/?utm_source=nodejsday
       image: voxnest.svg  
+    -
+      url: https://www.facile.it/?utm_source=nodejsday
+      image: facile.svg      
   
 
 bronze:
