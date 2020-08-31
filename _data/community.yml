@@ -1,0 +1,13 @@
+# place images in:
+# img/conf-name/community/file.jpg
+# description is actually the company the speaker is working for
+list:
+  -
+    name: Gamedev.js
+    image: gamedevjs.svg
+    site: https://gamedevjs.pl/
+
+  -
+    name: js13kGames
+    image: js13kgames.svg
+    site: https://js13kgames.com/
