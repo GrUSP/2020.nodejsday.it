@@ -2,12 +2,43 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
-  # -
-  #   id: 
-  #   description: >
-  #     
-  #   image: 
-  #   first_name: 
-  #   last_name: 
-  #   twitter:
- 
+   -
+     id: matteo-collina
+     description: >
+       Technical Director, NearForm
+     image: matteo-collina.jpg
+     first_name: Matteo
+     last_name: Collina
+     twitter: matteocollina
+   -
+     id: matthias-dugue
+     description: >
+       Tech Evangelist, Alwaysdata
+     image: matthias-dugue.jpg
+     first_name: Matthias
+     last_name: Dugué
+     twitter: m4d_z
+   -
+     id: daniel-norman
+     description: >
+       Developer Advocate, Prisma
+     image: daniel-norman.jpg
+     first_name: Daniel
+     last_name: Norman
+     twitter: daniel2color
+   -
+     id: emanuil-tolev
+     description: >
+       Community Engineer, Elastic
+     image: emanuil-tolev.jpg
+     first_name: Emanuil
+     last_name: Tolev
+     twitter: emanuil_tolev
+   -
+     id: milecia-mcgregor
+     description: >
+       Developer Advocate, Conducto
+     image: milecia-mcgregor.jpg
+     first_name: Milecia
+     last_name: McGregor
+     twitter: FlippedCoding
