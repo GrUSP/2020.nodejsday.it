@@ -1,5 +1,54 @@
-# -
-#   speaker_id: 
-#   title: 
-#   extract: >
-   
+-
+  speaker_id: matteo-collina
+  title: GraphQL. Accelerated.
+  extract: >
+    GraphQL is a query language that combines type validation with a query and filtering syntax that makes it easy to
+    get up-and-running with a powerful web API in almost no time. Add to that a vibrant community that keeps creating
+    excellent tooling and documentation, it’s clear why GraphQL has become so popular with developers.
+    Every abstraction has a cost, and GraphQL is no exception. The added complexity and a new schema format to parse
+    and execute mean new performance bottlenecks. In addition to performance issues, the wrong use of GraphQL can lead
+    to architectural bottlenecks.
+    Instead of viewing this as a problem, we took this as a challenge, and in this talk, we will unveil how we made it
+    run a lot faster on Node.js using different performance techniques that we have learned in the last few years.
+-
+  speaker_id: matthias-dugue
+  title: Build a Zero Knowledge backend with Node.js
+  extract: >
+    Zero Knowledge Architecture is a pattern that allow to build applications where all data is stored and exchanged in
+    an encrypted way. It enforces end-to-end encryption and client-side operations only. Let's gonna see how to build a
+    Zero Knowledge backend, involved in data transfer and keys-echange system, with a JS client-side lib. No more excuses
+    not to secure your applications design.
+-
+  speaker_id: milecia-mcgregor
+  title: The Security Toolbox For Node
+  extract: >
+    Do you have a way to quickly check all of your repos for any vulnerabilities to various attacks? Do you know which
+    attacks you should be preparing your applications for? In this talk, we will cover the top 10 attacks on Node
+    applications and how to handle all of them. Multiple tools will be covered, all of which have been used in
+    production across different back-end architectures.
+    A few of the areas that will be covered include securing dependencies, securing data, and securing your server.
+    By the end of this talk, attendees should have a full security toolbox and they will know how to implement it
+    quickly. This will help with production applications because you will still get through your sprints on time and you
+    will be able to rest knowing you have security measures in place.
+-
+  speaker_id: daniel-norman
+  title: Rapid and type-safe Node.js development with Prisma
+  extract: >
+    For developers that embrace rapid development, working with relational databases comes with a lot of challenges.
+    But it’s possible to optimize for developer experience without compromising on reliability with Prisma – an
+    open-source end-to-end type-safe database toolkit for TypeScript and Node.js. In this workshop, we’ll introduce
+    Prisma and learn how it enables rapid and type-safe development while addressing common problems in data-centric
+    applications.
+-
+  speaker_id: emanuil-tolev
+  title: The gentle touch of APM - how code tracing works in Node.js
+  extract: >
+    It has been a busy several years in monitoring and observability. As we’ve hit limits on the visibility and detail
+    that logging and metrics provide, we’ve turned to tracing and APM (App Performance Monitoring) systems. We can now
+    understand performance bottlenecks and see errors in our apps down to the line of code. But how do they really work
+    under the hood? Come and find out! We'll walk through how a free APM system works - Elastic APM.
+    - Elastic APM's tech architecture
+    - how its Node.js agent hooks deep into web apps
+    - how web frameworks allow us to perform tracing more easily than you might think
+    This talk is friendly to a variety of backgrounds and levels of experience. It would help a lot if you have worked
+    on a production web app, but the focus is on giving an introduction.

@@ -19,6 +19,14 @@ list:
      last_name: Dugué
      twitter: m4d_z
    -
+     id: milecia-mcgregor
+     description: >
+       Developer Advocate, Conducto
+     image: milecia-mcgregor.jpg
+     first_name: Milecia
+     last_name: McGregor
+     twitter: FlippedCoding
+   -
      id: daniel-norman
      description: >
        Developer Advocate, Prisma
@@ -34,11 +42,3 @@ list:
      first_name: Emanuil
      last_name: Tolev
      twitter: emanuil_tolev
-   -
-     id: milecia-mcgregor
-     description: >
-       Developer Advocate, Conducto
-     image: milecia-mcgregor.jpg
-     first_name: Milecia
-     last_name: McGregor
-     twitter: FlippedCoding
