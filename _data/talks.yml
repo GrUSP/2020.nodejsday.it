@@ -40,6 +40,15 @@
     Prisma and learn how it enables rapid and type-safe development while addressing common problems in data-centric
     applications.
 -
+  speaker_id: liz-parody
+  title: Examining Observability in Node.js
+  extract: >
+    Imagine your productivity and confidence developing web apps without chrome dev tools. Many do exactly that with
+    Node.js. It is important to observe and learn what's happening in your app to stay competitive and create the most
+    performant and efficient Node.js applications, following the best practices.
+    In this talk, we will explore useful tools to examine your Node.js applications and how observability will speed up
+    development, produce better code while improving reliability and uptime. Don't miss it!
+-
   speaker_id: emanuil-tolev
   title: The gentle touch of APM - how code tracing works in Node.js
   extract: >

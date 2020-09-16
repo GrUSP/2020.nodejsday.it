@@ -35,6 +35,14 @@ list:
      last_name: Norman
      twitter: daniel2color
    -
+     id: liz-parody
+     description: >
+       Head of Developer Relations, NodeSource
+     image: liz-parody.jpg
+     first_name: Liz
+     last_name: Parody
+     twitter: lizparody23
+   -
      id: emanuil-tolev
      description: >
        Community Engineer, Elastic
