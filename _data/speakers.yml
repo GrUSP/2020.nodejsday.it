@@ -11,6 +11,14 @@ list:
      last_name: Collina
      twitter: matteocollina
    -
+     id: simona-cotin
+     description: >
+       Serverless Advocate, Microsoft
+     image: simona-cotin.jpg
+     first_name: Simona
+     last_name: Cotin
+     twitter: simona_cotin  
+   -
      id: matthias-dugue
      description: >
        Tech Evangelist, Alwaysdata
