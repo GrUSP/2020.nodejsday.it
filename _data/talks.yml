@@ -11,6 +11,15 @@
     Instead of viewing this as a problem, we took this as a challenge, and in this talk, we will unveil how we made it
     run a lot faster on Node.js using different performance techniques that we have learned in the last few years.
 -
+  speaker_id: simona-cotin
+  title: Serverless at the end of the Universe
+  extract: >
+    Serverless functions are extremely good at what they do and provide planet-scale computing power for your applications. 
+    The one thing where serverless functions fall short is when it comes to state management. When missing state management abilities 
+    building up complex flows in your data processing will prove to be quite daunting, and most often than not will require you to provide 
+    custom mechanisms for enabling you to communicate between your functions. 
+    I am here to explain the challenges and what we can do to tackle them in a way that is extensible and suitable for production environments.
+-
   speaker_id: matthias-dugue
   title: Build a Zero Knowledge backend with Node.js
   extract: >
