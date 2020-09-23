@@ -11,3 +11,8 @@ list:
     name: js13kGames
     image: js13kgames.svg
     site: https://js13kgames.com/
+
+  -
+    name: JavaScript Kingdom
+    image: jsk.svg
+    site: https://twitter.com/javascriptking
