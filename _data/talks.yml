@@ -4,7 +4,7 @@
   extract: >
     GraphQL is a query language that combines type validation with a query and filtering syntax that makes it easy to
     get up-and-running with a powerful web API in almost no time. Add to that a vibrant community that keeps creating
-    excellent tooling and documentation, it’s clear why GraphQL has become so popular with developers.
+    excellent tooling and documentation, it's clear why GraphQL has become so popular with developers.
     Every abstraction has a cost, and GraphQL is no exception. The added complexity and a new schema format to parse
     and execute mean new performance bottlenecks. In addition to performance issues, the wrong use of GraphQL can lead
     to architectural bottlenecks.
@@ -44,8 +44,8 @@
   title: Rapid and type-safe Node.js development with Prisma
   extract: >
     For developers that embrace rapid development, working with relational databases comes with a lot of challenges.
-    But it’s possible to optimize for developer experience without compromising on reliability with Prisma – an
-    open-source end-to-end type-safe database toolkit for TypeScript and Node.js. In this workshop, we’ll introduce
+    But it's possible to optimize for developer experience without compromising on reliability with Prisma – an
+    open-source end-to-end type-safe database toolkit for TypeScript and Node.js. In this workshop, we'll introduce
     Prisma and learn how it enables rapid and type-safe development while addressing common problems in data-centric
     applications.
 -
@@ -61,8 +61,8 @@
   speaker_id: emanuil-tolev
   title: The gentle touch of APM - how code tracing works in Node.js
   extract: >
-    It has been a busy several years in monitoring and observability. As we’ve hit limits on the visibility and detail
-    that logging and metrics provide, we’ve turned to tracing and APM (App Performance Monitoring) systems. We can now
+    It has been a busy several years in monitoring and observability. As we've hit limits on the visibility and detail
+    that logging and metrics provide, we've turned to tracing and APM (App Performance Monitoring) systems. We can now
     understand performance bottlenecks and see errors in our apps down to the line of code. But how do they really work
     under the hood? Come and find out! We'll walk through how a free APM system works - Elastic APM.
     - Elastic APM's tech architecture
@@ -70,3 +70,15 @@
     - how web frameworks allow us to perform tracing more easily than you might think
     This talk is friendly to a variety of backgrounds and levels of experience. It would help a lot if you have worked
     on a production web app, but the focus is on giving an introduction.
+-
+  speaker_id: thomas-watson
+  title: JavaScript Prototypes Behind the Scenes
+  extract: >
+    JavaScript is a prototype-oriented language. But for many, what this really means or how it actually works is a
+    little fuzzy. It seems, that as quickly as you learn how prototypes work behind the scenes, as quickly do you
+    forget it again. If you can relate to this feeling, this talk is for you.
+    We'll dive into why JavaScript is a prototype-oriented language instead of class-based and what that means for you
+    as a developer. You'll learn exactly how prototypal inheritance works in JavaScript - in a way that's easy to
+    remember - so that you can become a better programmer.
+    Finally, you'll learn about the security pitfalls that exist in the way prototypal inheritance is implemented in
+    JavaScript and how to write more secure code to avoid those pitfalls.

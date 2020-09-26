@@ -58,3 +58,11 @@ list:
      first_name: Emanuil
      last_name: Tolev
      twitter: emanuil_tolev
+  -
+     id: thomas-watson
+     description: >
+       Principal Software Engineer, Elastic
+     image: thomas-watson.jpg
+     first_name: Thomas
+     last_name: Watson
+     twitter: wa7son
