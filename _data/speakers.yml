@@ -2,67 +2,67 @@
 # img/conf-name/speaker/file.jpg
 # description is actually the company the speaker is working for
 list:
-   -
-     id: matteo-collina
-     description: >
-       Technical Director, NearForm
-     image: matteo-collina.jpg
-     first_name: Matteo
-     last_name: Collina
-     twitter: matteocollina
-   -
-     id: simona-cotin
-     description: >
-       Serverless Advocate, Microsoft
-     image: simona-cotin.jpg
-     first_name: Simona
-     last_name: Cotin
-     twitter: simona_cotin  
-   -
-     id: matthias-dugue
-     description: >
-       Tech Evangelist, Alwaysdata
-     image: matthias-dugue.jpg
-     first_name: Matthias
-     last_name: Dugué
-     twitter: m4d_z
-   -
-     id: milecia-mcgregor
-     description: >
-       Developer Advocate, Conducto
-     image: milecia-mcgregor.jpg
-     first_name: Milecia
-     last_name: McGregor
-     twitter: FlippedCoding
-   -
-     id: daniel-norman
-     description: >
-       Developer Advocate, Prisma
-     image: daniel-norman.jpg
-     first_name: Daniel
-     last_name: Norman
-     twitter: daniel2color
-   -
-     id: liz-parody
-     description: >
-       Head of Developer Relations, NodeSource
-     image: liz-parody.jpg
-     first_name: Liz
-     last_name: Parody
-     twitter: lizparody23
-   -
-     id: emanuil-tolev
-     description: >
-       Community Engineer, Elastic
-     image: emanuil-tolev.jpg
-     first_name: Emanuil
-     last_name: Tolev
-     twitter: emanuil_tolev
   -
-     id: thomas-watson
-     description: >
-       Principal Software Engineer, Elastic
-     image: thomas-watson.jpg
-     first_name: Thomas
-     last_name: Watson
-     twitter: wa7son
+    id: matteo-collina
+    description: >
+     Technical Director, NearForm
+    image: matteo-collina.jpg
+    first_name: Matteo
+    last_name: Collina
+    twitter: matteocollina
+  -
+    id: simona-cotin
+    description: >
+     Serverless Advocate, Microsoft
+    image: simona-cotin.jpg
+    first_name: Simona
+    last_name: Cotin
+    twitter: simona_cotin
+  -
+    id: matthias-dugue
+    description: >
+     Tech Evangelist, Alwaysdata
+    image: matthias-dugue.jpg
+    first_name: Matthias
+    last_name: Dugué
+    twitter: m4d_z
+  -
+    id: milecia-mcgregor
+    description: >
+     Developer Advocate, Conducto
+    image: milecia-mcgregor.jpg
+    first_name: Milecia
+    last_name: McGregor
+    twitter: FlippedCoding
+  -
+    id: daniel-norman
+    description: >
+     Developer Advocate, Prisma
+    image: daniel-norman.jpg
+    first_name: Daniel
+    last_name: Norman
+    twitter: daniel2color
+  -
+    id: liz-parody
+    description: >
+     Head of Developer Relations, NodeSource
+    image: liz-parody.jpg
+    first_name: Liz
+    last_name: Parody
+    twitter: lizparody23
+  -
+    id: emanuil-tolev
+    description: >
+     Community Engineer, Elastic
+    image: emanuil-tolev.jpg
+    first_name: Emanuil
+    last_name: Tolev
+    twitter: emanuil_tolev
+  -
+    id: thomas-watson
+    description: >
+     Principal Software Engineer, Elastic
+    image: thomas-watson.jpg
+    first_name: Thomas
+    last_name: Watson
+    twitter: wa7son
