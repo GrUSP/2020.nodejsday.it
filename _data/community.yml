@@ -16,3 +16,38 @@ list:
     name: JavaScript Kingdom
     image: jsk.svg
     site: https://twitter.com/javascriptking
+
+  -
+    name: Angular Roma
+    image: angular-roma.svg
+    site: https://twitter.com/angularrome
+
+  -
+    name: devRomagna
+    image: devromagna.svg
+    site: https://devromagna.org/
+
+  -
+    name: PUG Rovigo
+    image: pug-rovigo.svg
+    site: https://rovigo.grusp.org/
+
+  -
+    name: PUG Catania
+    image: pug-catania.svg
+    site: http://catania.grusp.org/
+
+  -
+    name: PUG Cagliari
+    image: pug-cagliari.svg
+    site: https://www.meetup.com/it-IT/pugCagliari-PHP-User-Group-Cagliari/
+
+  -
+    name: PUG Foggia
+    image: pug-foggia.svg
+    site: http://foggia.grusp.org
+
+  -
+    name: PUG Romagna
+    image: pug-romagna.svg
+    site: https://www.meetup.com/it-IT/PUG-Romagna-PHP-User-Group-Romagnolo/
